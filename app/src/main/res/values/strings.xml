@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Hola android</string>
+    <string name="titulo">Plan de Emergencia Familiar</string>
 </resources>
